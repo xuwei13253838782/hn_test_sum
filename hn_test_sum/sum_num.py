@@ -7,7 +7,7 @@ def add_sum(a):
     :return:
     '''
     res = False
-    if type(a) == 'int':
+    if type(a) == int:
         sum = 0
         for i in range(a + 1):  # 实际遍历到n
             sum += i

@@ -29,8 +29,8 @@ setup(name='hn_test_sum',
       classifiers=[
           'Operating System :: OS Independent',
           'Topic :: Software Development',
-          'Programming Language :: Python :: 2.7'
-          'Programming Language :: Python :: Implementation :: PyPy',
+          'Programming Language :: Python :: 2.7',
+          'Programming Language :: Python :: Implementation :: PyPy'
       ],
 
       version=VERSION,
